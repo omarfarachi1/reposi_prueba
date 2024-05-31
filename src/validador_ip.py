@@ -11,7 +11,7 @@ class ValidadorIp:
             return False
         return True
 
-
+#con pruebas
 class Octeto:
     def __init__(self, valor):
         #captura un valuError
